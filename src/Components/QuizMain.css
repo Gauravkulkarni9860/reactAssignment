@@ -1,0 +1,17 @@
+.ans {
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
+    margin: 20px;
+}
+
+.Content {
+    display: table;
+    width: 100%;
+    border-radius: 25px;
+    margin: 0 auto;
+    background-color: #fff;  
+  }
+
+.button {
+    margin-left: 250px;
+}

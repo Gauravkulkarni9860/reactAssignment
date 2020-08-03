@@ -1,0 +1,15 @@
+.Content p {
+    margin: 15px 0;
+    margin-left: 20px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    color: black;
+    text-transform: none;
+    text-shadow: none;
+    text-align: left;
+}
+
+.answer{
+    padding: 20px;
+}

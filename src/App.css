@@ -1,0 +1,10 @@
+.App {
+  width: inherit;
+  background-color: lightgrey;
+  /* padding: 30px 10px; */
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+
